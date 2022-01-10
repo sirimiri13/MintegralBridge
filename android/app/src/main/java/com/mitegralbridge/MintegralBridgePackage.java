@@ -12,6 +12,7 @@ import java.util.List;
 import com.mitegralbridge.MintegralBridgeModule;
 
 public class MintegralBridgePackage implements ReactPackage{
+   
 
     @Override
     public List<ViewManager> createViewManagers(ReactApplicationContext reactContext){
